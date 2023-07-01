@@ -25,7 +25,7 @@ To get started with the Hospital Management System, follow these steps:
 1. Clone the repository using the following command:
 
    ```shell
-   git clone https://github.com/your-username/hospital-management-system.git
+   git clone https://github.com/Mohammed-100700/Hospital-Management-System-using-Java-and-GUI.git
    
 2. Open the project in your preferred Java IDE or text editor.
 
